@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sagar",
+      "username": "ss",
+      "email": "ss@gmail.com",
+      "phone": "9536575896",
+      "website": "kesari.tech"
+    },
+    {
+      "id": "2",
+      "name": "Akkis",
+      "email": "Akki@gmail.com",
+      "phone": "9856985674"
+    }
+  ]
+}
